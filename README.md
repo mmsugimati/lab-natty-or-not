@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Visão jovem sobre IA Generativa
 
 ## 📒 Descrição
 Este vídeo de 51 segundos apresenta uma visão de uma jovem de 15 anos sobre a aplicação das IAs Generativas na vida cotidiana e profissional.
