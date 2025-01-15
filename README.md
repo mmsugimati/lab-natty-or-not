@@ -1,7 +1,7 @@
 # Visão jovem sobre IA Generativa
 
 ## 📒 Descrição
-Este vídeo de 51 segundos apresenta uma visão de uma jovem de 15 anos sobre a aplicação das IAs Generativas na vida cotidiana e profissional.
+Este vídeo de 32 segundos apresenta uma visão de uma jovem de 15 anos sobre a aplicação das IAs Generativas na vida cotidiana e profissional.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
