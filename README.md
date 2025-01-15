@@ -14,7 +14,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essen
 ## 🚀 Resultados
 O vídeo demonstra a visão de uma jovem de 15 anos, considerando sua personalidade e suas preferências, sobre o mundo das IAs Generativas, destacando seu potencial transformador.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://github.com/mmsugimati/lab-natty-or-not/blob/main/202501151928.mp4)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
